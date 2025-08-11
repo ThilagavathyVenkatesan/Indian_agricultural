@@ -143,3 +143,28 @@ cd Indian_agricultural
 3. Run Python ETL scripts to clean & load data.
 
 4. Open Power BI, connect to your database, and load the dashboard.
+
+
+## 📸 Screenshots
+<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f87a6e0f-cf9c-4ef2-91d2-4091da0ed38c" />
+<img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/44f92ce3-5a5e-4f12-b984-a58edf0171f8" />
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/47456b40-bf1c-431a-8b1f-69520406efcb" />
+<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/dcd3f6be-fe08-41ba-9402-0f1e798e1290" />
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/ce7bac91-7eab-4a6c-ab57-712dc9aca714" />
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/7b5ad992-78e1-49ba-8714-ea92ac4274d5" />
+<img width="1366" height="768" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/f48d1863-acec-4ee1-bf65-e5a7bffdcbff" />
+<img width="1366" height="768" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d1206b9d-7d65-41a9-8fc1-be3f782b9338" />
+<img width="1366" height="768" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/a402e095-90a5-4f78-b1e2-61b78d71e931" />
+<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/6a3ccbb0-62de-4d35-b8f9-fa5980827d9c" />
+<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/92fefa28-285c-4af5-9227-6bd9e2adafa2" />
+<img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/ce87b1bc-f15b-4a87-87a3-3bb4a0152f98" />
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/133aaa56-96d5-42d1-bef6-e56d4341da59" />
+<img width="1366" height="768" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/05dc89fa-9da0-4e2c-8829-cef81b7237f0" />
+<img width="1366" height="768" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3e191e22-98f2-4d36-88ed-43ec0f429684" />
+<img width="1366" height="768" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/ee731753-a27e-47b7-9802-f24fee01dd25" />
+
+
+
+## ❇️ Credits
+
+Built with ❤️ using [Streamlit](https://streamlit.io/), [SQLAlchemy](https://www.sqlalchemy.org/), [MySQL](https://www.mysql.com/), [Power BI](https://powerbi.microsoft.com/), and [Plotly](https://plotly.com/python/).
